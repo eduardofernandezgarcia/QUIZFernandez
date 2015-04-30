@@ -8,6 +8,6 @@
   <body>
     <h1>Quiz</h1>
     <p>Welcome to Quiz</p>
-	<p><a href="views/quizes/question">Comience a jugar</a></p>
+	<p><a href="/quizes/question">Comience a jugar</a></p>
   </body>
 </html>
